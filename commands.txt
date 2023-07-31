@@ -5,3 +5,8 @@ git rm --cached commands.txt
 git commit -m "Git Basics"
 git log
 git restore  commands.txt
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "sprasad"
+git config --global user.email "sprasad.pujari@outlook.com"
+
