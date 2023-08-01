@@ -1,0 +1,3 @@
+This is feature4 file
+
+Added one more line
