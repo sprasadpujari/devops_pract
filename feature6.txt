@@ -1,5 +1,5 @@
 
-This is feature6 file
+Thi is feature6 file
 Under development Test
 
 File change in github repo
